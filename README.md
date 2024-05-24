@@ -9,7 +9,12 @@
 
 <br/>
 
+
+
 <div align="center">
+  
+   --- 
+  
   <h3>Languages and Tools</h3>
   
   ![Java](https://img.icons8.com/?size=45&id=GPfHz0SM85FX&format=png&color=000000)
@@ -25,6 +30,8 @@
   ![Node](https://img.icons8.com/?size=45&id=hsPbhkOH4FMe&format=png&color=000000)
   ![Mysql](https://img.icons8.com/?size=45&id=UFXRpPFebwa2&format=png&color=000000)
   ![Mongo DB](https://img.icons8.com/?size=45&id=bosfpvRzNOG8&format=png&color=000000)
+  
+  ---
   
   <br/>
 
