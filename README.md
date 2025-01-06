@@ -33,15 +33,6 @@
   
   ---
   
-  <br/>
-
-
-  ### :bar_chart: GitHub stats
-  
-   | ![](https://github-readme-stats.vercel.app/api?username=VihangaDa&show_icons=true&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=VihangaDa&theme=tokyonight) |
-   | --- | --- |
-   
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VihangaDa&theme=tokyonight)
-
+  <br/>  
 </div>
 
