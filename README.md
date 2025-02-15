@@ -4,7 +4,6 @@
 <br/>
 
 - 📫 How to reach me **vihangadamsara364@gmail.com**
-- 💬 Ask me about **Java,JS,PHP**
 - ⚡ Fun fact **Can code a mean API while simultaneously brewing a perfect cup of ☕**
 
 <br/>
